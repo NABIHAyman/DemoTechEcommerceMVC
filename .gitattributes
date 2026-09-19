@@ -63,8 +63,9 @@
 #*.RTF   diff=astextplain
 
 ###############################################################################
-# Third-party front-end assets (SB Admin 2 theme, client libraries):
+# Third-party front-end assets (SB Admin 2 and Start Bootstrap Shop themes, client libraries):
 # excluded from GitHub language statistics
 ###############################################################################
 DemoTechEcommerceMVC/wwwroot/Dashboard/** linguist-vendored
 DemoTechEcommerceMVC/wwwroot/lib/** linguist-vendored
+DemoTechEcommerceMVC/wwwroot/css/styles.css linguist-vendored
