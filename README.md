@@ -289,6 +289,15 @@ committed connection string targets a local development instance.
 
 ---
 
+## License
+
+Released under the [MIT License](LICENSE) — © 2026 Ayman NABIH.
+
+Third-party assets bundled in this repository (Bootstrap themes, jQuery)
+keep their own licences.
+
+---
+
 ## Author
 
 **Ayman NABIH**
